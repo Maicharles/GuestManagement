@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/GuestManagement/static/css/main.257144b0.chunk.css",
+    "main.js": "/GuestManagement/static/js/main.41583095.chunk.js",
+    "main.js.map": "/GuestManagement/static/js/main.41583095.chunk.js.map",
+    "runtime-main.js": "/GuestManagement/static/js/runtime-main.6d10be25.js",
+    "runtime-main.js.map": "/GuestManagement/static/js/runtime-main.6d10be25.js.map",
+    "static/css/2.a6bc1c31.chunk.css": "/GuestManagement/static/css/2.a6bc1c31.chunk.css",
+    "static/js/2.b2b23d61.chunk.js": "/GuestManagement/static/js/2.b2b23d61.chunk.js",
+    "static/js/2.b2b23d61.chunk.js.map": "/GuestManagement/static/js/2.b2b23d61.chunk.js.map",
+    "index.html": "/GuestManagement/index.html",
+    "precache-manifest.c05289808ead70f66e62f774ff3db9fa.js": "/GuestManagement/precache-manifest.c05289808ead70f66e62f774ff3db9fa.js",
+    "service-worker.js": "/GuestManagement/service-worker.js",
+    "static/css/2.a6bc1c31.chunk.css.map": "/GuestManagement/static/css/2.a6bc1c31.chunk.css.map",
+    "static/css/main.257144b0.chunk.css.map": "/GuestManagement/static/css/main.257144b0.chunk.css.map",
+    "static/js/2.b2b23d61.chunk.js.LICENSE": "/GuestManagement/static/js/2.b2b23d61.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6d10be25.js",
+    "static/css/2.a6bc1c31.chunk.css",
+    "static/js/2.b2b23d61.chunk.js",
+    "static/css/main.257144b0.chunk.css",
+    "static/js/main.41583095.chunk.js"
+  ]
+}
